@@ -1,4 +1,4 @@
-thesis_data_set
+danish_legal_rulings
 ===============
 
 A data set consisting of 71.386 sentences from 378 Danish legal rulings by the Danish Companies Appeals Board [http://www.erhvervsankenævnet.dk], which has been pre-processed for use in my master's thesis - Data-driven de-identification of Danish legal rulings. 
